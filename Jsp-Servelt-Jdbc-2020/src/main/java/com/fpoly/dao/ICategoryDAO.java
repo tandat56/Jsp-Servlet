@@ -1,9 +1,9 @@
-package com.fpoly.service;
+package com.fpoly.dao;
 
 import java.util.List;
-
 import com.fpoly.model.CategoryModel;
 
-public interface INewService {
+public interface ICategoryDAO {
+
 	List<CategoryModel> findAll();
 }
