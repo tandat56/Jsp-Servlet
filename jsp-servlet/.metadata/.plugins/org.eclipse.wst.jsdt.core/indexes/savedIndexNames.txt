@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Users\TanDat_MSI\Documents\workspeach\jsp-servlet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3639553920.index
-874491658.index
-1829728710.index
-2877674189.index
-2743441114.index
-292436137.index
-1562656052.index
