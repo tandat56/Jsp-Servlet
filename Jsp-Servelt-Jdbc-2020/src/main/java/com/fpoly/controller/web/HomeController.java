@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(urlPatterns = {"/trang-chu"})
 public class HomeController extends HttpServlet {
 	
-	private static final long serialVersionUID = 2686801510274002166L;
+	private static final long serialVersionUID = 1L;
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		RequestDispatcher rd = request.getRequestDispatcher("/views/web/home.jsp");
